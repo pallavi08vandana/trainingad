@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trainingad/static/css/main.dd2e011a.css",
+    "main.js": "/trainingad/static/js/main.3dd853a0.js",
+    "index.html": "/trainingad/index.html",
+    "main.dd2e011a.css.map": "/trainingad/static/css/main.dd2e011a.css.map",
+    "main.3dd853a0.js.map": "/trainingad/static/js/main.3dd853a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2e011a.css",
+    "static/js/main.3dd853a0.js"
+  ]
+}
